@@ -1,2 +1,1 @@
-Hello, this is the original message
-Hello, this message is from MAIN branch
+Hello , this message is from both the branches
